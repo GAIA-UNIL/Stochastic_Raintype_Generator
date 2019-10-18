@@ -1,0 +1,2 @@
+This code allows for stochastic simulation of rain type time series conditional to meteorological covariates.
+How to use: Run main.m
