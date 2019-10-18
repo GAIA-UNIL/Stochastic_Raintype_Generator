@@ -1,2 +1,2 @@
 This code allows for stochastic simulation of rain type time series conditional to meteorological covariates.
-How to use: Run main.m
+How to use: (1) Unzip Raintype_data (2) Run main.m
